@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SohamTodkar
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on sorry
 - 📫 How to reach me sohamtodkar893@gmail.com
 
 
